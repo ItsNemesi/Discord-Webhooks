@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discord-Webhooks", "Discord-Webhooks\Discord-Webhooks.csproj", "{60183828-7F56-4F2C-A175-3EAD64CC147D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{AD8A7EE5-CB83-4C3F-A9AA-670F5EC7326C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60183828-7F56-4F2C-A175-3EAD64CC147D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60183828-7F56-4F2C-A175-3EAD64CC147D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60183828-7F56-4F2C-A175-3EAD64CC147D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60183828-7F56-4F2C-A175-3EAD64CC147D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8A7EE5-CB83-4C3F-A9AA-670F5EC7326C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8A7EE5-CB83-4C3F-A9AA-670F5EC7326C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8A7EE5-CB83-4C3F-A9AA-670F5EC7326C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8A7EE5-CB83-4C3F-A9AA-670F5EC7326C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
