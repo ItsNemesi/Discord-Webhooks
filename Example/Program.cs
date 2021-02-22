@@ -13,7 +13,7 @@ namespace Example
             webhook.Username = "ItsNemesi";
             webhook.Content = "Test";
             
-            var discordWebhook = new DiscordWebhook("https://discord.com/api/webhooks/813191490389540894/9Dn79dUodmX8PwVb_LjPXQS25R5k5PgE51tIJx8sIArs1ddG8igfOrWr2M8luwV0gLll", webhook);
+            var discordWebhook = new DiscordWebhook("", webhook);
             var send = await discordWebhook.Send();
             
             Console.WriteLine(send ? "Success" : "Not Successful");
